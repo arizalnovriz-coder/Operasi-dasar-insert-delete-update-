@@ -11,3 +11,6 @@ Operasi Delete
 
 <img width="489" height="110" alt="Screenshot 2026-11-04 143556" src="https://github.com/user-attachments/assets/83a5f47e-78a8-4a18-871d-bbfe74f781af" />
 
+Operasi Update
+
+<img width="489" height="135" alt="Screenshot 2026-11-04 144257" src="https://github.com/user-attachments/assets/d43bd42c-0940-493b-bad2-42de3e3131b8" />
