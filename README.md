@@ -7,4 +7,7 @@ Operasi Insert
 
 <img width="509" height="148" alt="image" src="https://github.com/user-attachments/assets/0a996450-5882-487d-a7a0-2a774ebe07bd" />
 
+Operasi Delete
+
+<img width="489" height="110" alt="Screenshot 2026-11-04 143556" src="https://github.com/user-attachments/assets/83a5f47e-78a8-4a18-871d-bbfe74f781af" />
 
